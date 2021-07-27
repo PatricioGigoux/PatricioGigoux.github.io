@@ -35,7 +35,16 @@
     </item>
     
     <item>
-      <title>dibujos</title>
+      <title>Encargo1</title>
+      <link>https://patriciogigoux.github.io/tce/docs/propuesta-valor/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://patriciogigoux.github.io/tce/docs/propuesta-valor/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Propuesta de valor</title>
       <link>https://patriciogigoux.github.io/tce/docs/encargo_dibujos/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
