@@ -35,7 +35,16 @@
     </item>
     
     <item>
-      <title>Encargo1</title>
+      <title>dibujos</title>
+      <link>https://patriciogigoux.github.io/tce/docs/encargo_dibujos/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://patriciogigoux.github.io/tce/docs/encargo_dibujos/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>propuesta valor</title>
       <link>https://patriciogigoux.github.io/tce/docs/propuesta-valor/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -44,11 +53,11 @@
     </item>
     
     <item>
-      <title>Propuesta de valor</title>
-      <link>https://patriciogigoux.github.io/tce/docs/encargo_dibujos/</link>
+      <title>Midterm</title>
+      <link>https://patriciogigoux.github.io/tce/docs/midterm/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://patriciogigoux.github.io/tce/docs/encargo_dibujos/</guid>
+      <guid>https://patriciogigoux.github.io/tce/docs/midterm/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
